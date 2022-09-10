@@ -1,0 +1,1 @@
+if(window.location.href[4]!=='s')window.location.href.replace('http://','https://')
